@@ -1,8 +1,14 @@
 # OEM Plant Report
 
 ### Dashboard Image :
-[OEM Plant Report.pdf](https://github.com/Soni-Sachin-94240/OEM-Plant-Report/files/15011330/OEM.Plant.Report.pdf)
+Overview:
+![Overview](https://github.com/Soni-Sachin-94240/OEM-Plant-Report/assets/132342151/62039589-45d4-4b97-bc31-7981bdf46452)
 
+Loss Analysis:
+![Loss Analysis](https://github.com/Soni-Sachin-94240/OEM-Plant-Report/assets/132342151/5ee7e943-d657-4843-abce-d9dd7b2a9677)
+
+Production Insights:
+![Production Insights](https://github.com/Soni-Sachin-94240/OEM-Plant-Report/assets/132342151/6887b7bb-0c9d-476f-9045-30c4995d3bac)
 
 
 ## Problem Statement
